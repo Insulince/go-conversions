@@ -172,7 +172,7 @@ Bro, just leave me alone, this is cathartic for me alright, lol.
 
 ### Results
 
-Below are the full results from running this program as of **12/8/2022**. They are being recorded to save anyone from having to run this program on their own machine if all they care about is seeing what primitives can be converted in Go.
+Below are the full results from running this program as of **12/8/2022** on **Go 1.19.2**. They are being recorded to save anyone from having to run this program on their own machine if all they care about is seeing what primitives can be converted in Go.
 
 ```text
 INFO[0000] ---------- converting bool values ---------- 
